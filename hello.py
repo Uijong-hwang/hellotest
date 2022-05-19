@@ -2,7 +2,7 @@ from method import *
 
 met = Method()
 
-def sayHello():
+def sayHello()
     return "Hello World!"
 
 # def test_sayHello():
