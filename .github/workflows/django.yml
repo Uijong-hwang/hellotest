@@ -22,4 +22,4 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
       run: |
-        python -m pytest hello.py
+        python -m unittest *.py
